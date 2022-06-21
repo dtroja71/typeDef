@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\Documents\GitHub\typeDef\git\git\Source.cpp(7,38): error C2513: unsigned __int64: нет переменных, объявленных перед "="
+C:\Users\User\Documents\GitHub\typeDef\git\git\Source.cpp(7,38): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  ВНУТРЕННЯЯ ОШИБКА КОМПИЛЯТОРА в "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe"
+      Выберите команду "Техническая поддержка" в меню "Справка" Visual C++ или
+      откройте справочный файл технической поддержки для получения доп. сведений
